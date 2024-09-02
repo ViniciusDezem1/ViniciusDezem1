@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ViniciusDezem1
-- 👀 I’m interested in Artificial inteligence applied in finance
+- 👀 I’m interested in Open Finance  and Finance Inclusion
 - 🌱 I’m currently learning Machine learning
 
 
